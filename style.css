@@ -1,3 +1,4 @@
+
 body{
 	 
 	background-image: url("fomdo.png");
@@ -11,3 +12,25 @@ h1{
 img:hover{
 	border-radius: 80px;
 }
+ul{
+list-style-type: none;
+background-color: #c1121f;
+overflow: hidden;
+}
+
+ul li{
+	float: left;
+	text-align: center;
+
+	
+	
+}
+ul li a{
+text-decoration: none;
+width: 75px;
+	padding: 14px 15px;
+display: block;
+background-color: #00f;
+color: #fff;
+}
+
